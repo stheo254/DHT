@@ -1,5 +1,0 @@
-/home/stheo/RN/netzwek/rn-praxis2/build/CMakeFiles/webserver.dir
-/home/stheo/RN/netzwek/rn-praxis2/build/CMakeFiles/package.dir
-/home/stheo/RN/netzwek/rn-praxis2/build/CMakeFiles/package_source.dir
-/home/stheo/RN/netzwek/rn-praxis2/build/CMakeFiles/edit_cache.dir
-/home/stheo/RN/netzwek/rn-praxis2/build/CMakeFiles/rebuild_cache.dir
