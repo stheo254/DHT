@@ -1,0 +1,5 @@
+/run/media/stheo/Seagate Portable Drive/lappy/RN/netzwek/rn-praxis2/CMakeFiles/webserver.dir
+/run/media/stheo/Seagate Portable Drive/lappy/RN/netzwek/rn-praxis2/CMakeFiles/package.dir
+/run/media/stheo/Seagate Portable Drive/lappy/RN/netzwek/rn-praxis2/CMakeFiles/package_source.dir
+/run/media/stheo/Seagate Portable Drive/lappy/RN/netzwek/rn-praxis2/CMakeFiles/edit_cache.dir
+/run/media/stheo/Seagate Portable Drive/lappy/RN/netzwek/rn-praxis2/CMakeFiles/rebuild_cache.dir

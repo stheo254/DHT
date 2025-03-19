@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/webserver.dir/link.d CMakeFiles/webserver.dir/webserver.c.o CMakeFiles/webserver.dir/http.c.o CMakeFiles/webserver.dir/util.c.o CMakeFiles/webserver.dir/data.c.o -o webserver  /usr/lib/libssl.so /usr/lib/libcrypto.so -lm -lm
